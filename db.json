@@ -1,0 +1,274 @@
+{
+  "super-sources": [
+    {
+      "supersource_name": "test-superSource-1",
+      "supersource_id": "001",
+      "supersource_description": "super-source-description",
+      "existing_flag": "false",
+      "dimension_list": [
+        "EGDP_CLASSIC_EPS_COMMON.EPS_MGMT_UNIT_DIM",
+        "COMMON.EG_DATE_DIMENSION",
+        "COMMON.EG_COUNTRY",
+        "SUPPLY.LODGING_PROFILE_EG",
+        "EGDP_CLASSIC_BOOKING.AIRLN_CARRIER_DIM"
+      ],
+      "source_list": [
+        "COMMERCE.EG_COMMERCE_BOOKINGITEM_EVENT_V1"
+      ],
+      "owner_info": {
+        "team_name": "Test Team",
+        "email": "team@expediagroup.com",
+        "slack": "#notification-testing"
+      },
+      "backfill_info": {
+        "backfill_indicator": true,
+        "start_date": "2022-01-01",
+        "end_date": "2022-03-31"
+      },
+      "status": "approved",
+      "refresh_strategy": "0 8 * * *",
+      "create_date": "2022-05-04",
+      "update_date": "2022-05-04",
+      "requested_by": "Test Team",
+      "change_description": "change-description",
+      "sample_data_duration": 0,
+      "version": "1.0"
+    },
+    {
+      "supersource_name": "test-superSource-2",
+      "supersource_id": "002",
+      "supersource_description": "super-source-description",
+      "existing_flag": "true",
+      "dimension_list": [
+        "EGDP_CLASSIC_EPS_COMMON.EPS_MGMT_UNIT_DIM",
+        "COMMON.EG_DATE_DIMENSION",
+        "COMMON.EG_COUNTRY",
+        "SUPPLY.LODGING_PROFILE_EG",
+        "EGDP_CLASSIC_BOOKING.AIRLN_CARRIER_DIM"
+      ],
+      "source_list": [
+        "COMMERCE.EG_COMMERCE_BOOKINGITEM_EVENT_V1"
+      ],
+      "owner_info": null,
+      "backfill_info": null,
+      "status": "approved",
+      "refresh_strategy": "0 8 * * *",
+      "create_date": "2022-05-04",
+      "update_date": "2022-05-04",
+      "requested_by": "Test Team",
+      "change_description": "change-description",
+      "sample_data_duration": 0,
+      "version": "1.0"
+    },
+    {
+      "supersource_name": "test-superSource-3",
+      "supersource_id": "003",
+      "supersource_description": "super-source-description",
+      "existing_flag": "false",
+      "dimension_list": [
+        "EGDP_CLASSIC_EPS_COMMON.EPS_MGMT_UNIT_DIM",
+        "COMMON.EG_DATE_DIMENSION",
+        "COMMON.EG_COUNTRY",
+        "SUPPLY.LODGING_PROFILE_EG",
+        "EGDP_CLASSIC_BOOKING.AIRLN_CARRIER_DIM"
+      ],
+      "source_list": [
+        "COMMERCE.EG_COMMERCE_BOOKINGITEM_EVENT_V1"
+      ],
+      "owner_info": {
+        "team_name": "Test Team",
+        "email": "team@expediagroup.com",
+        "slack": "#notification-testing"
+      },
+      "backfill_info": {
+        "backfill_indicator": true,
+        "start_date": "2022-01-01",
+        "end_date": "2022-03-31"
+      },
+      "status": "approved",
+      "refresh_strategy": "0 8 * * *",
+      "create_date": "2022-05-04",
+      "update_date": "2022-05-04",
+      "requested_by": "Test Team",
+      "change_description": "change-description",
+      "sample_data_duration": 0,
+      "version": "1.0"
+    },
+    {
+      "supersource_name": "test-superSource-4",
+      "supersource_id": "004",
+      "supersource_description": "super-source-description",
+      "existing_flag": "true",
+      "dimension_list": [
+        "EGDP_CLASSIC_EPS_COMMON.EPS_MGMT_UNIT_DIM",
+        "COMMON.EG_DATE_DIMENSION",
+        "COMMON.EG_COUNTRY",
+        "SUPPLY.LODGING_PROFILE_EG",
+        "EGDP_CLASSIC_BOOKING.AIRLN_CARRIER_DIM"
+      ],
+      "source_list": [
+        "COMMERCE.EG_COMMERCE_BOOKINGITEM_EVENT_V1"
+      ],
+      "owner_info": null,
+      "backfill_info": null,
+      "status": "approved",
+      "refresh_strategy": "0 8 * * *",
+      "create_date": "2022-05-04",
+      "update_date": "2022-05-04",
+      "requested_by": "Test Team",
+      "change_description": "change-description",
+      "sample_data_duration": 0,
+      "version": "1.0"
+    },
+    {
+      "supersource_name": "test-superSource-5",
+      "supersource_id": "005",
+      "supersource_description": "super-source-description",
+      "existing_flag": "false",
+      "dimension_list": [
+        "EGDP_CLASSIC_EPS_COMMON.EPS_MGMT_UNIT_DIM",
+        "COMMON.EG_DATE_DIMENSION",
+        "COMMON.EG_COUNTRY",
+        "SUPPLY.LODGING_PROFILE_EG",
+        "EGDP_CLASSIC_BOOKING.AIRLN_CARRIER_DIM"
+      ],
+      "source_list": [
+        "COMMERCE.EG_COMMERCE_BOOKINGITEM_EVENT_V1"
+      ],
+      "owner_info": {
+        "team_name": "Test Team",
+        "email": "team@expediagroup.com",
+        "slack": "#notification-testing"
+      },
+      "backfill_info": {
+        "backfill_indicator": true,
+        "start_date": "2022-01-01",
+        "end_date": "2022-03-31"
+      },
+      "status": "approved",
+      "refresh_strategy": "0 8 * * *",
+      "create_date": "2022-05-04",
+      "update_date": "2022-05-04",
+      "requested_by": "Test Team",
+      "change_description": "change-description",
+      "sample_data_duration": 0,
+      "version": "1.0"
+    },
+    {
+      "supersource_name": "test-superSource-6",
+      "supersource_id": "006",
+      "supersource_description": "super-source-description",
+      "existing_flag": "true",
+      "dimension_list": [
+        "EGDP_CLASSIC_EPS_COMMON.EPS_MGMT_UNIT_DIM",
+        "COMMON.EG_DATE_DIMENSION",
+        "COMMON.EG_COUNTRY",
+        "SUPPLY.LODGING_PROFILE_EG",
+        "EGDP_CLASSIC_BOOKING.AIRLN_CARRIER_DIM"
+      ],
+      "source_list": [
+        "COMMERCE.EG_COMMERCE_BOOKINGITEM_EVENT_V1"
+      ],
+      "owner_info": null,
+      "backfill_info": null,
+      "status": "approved",
+      "refresh_strategy": "0 8 * * *",
+      "create_date": "2022-05-04",
+      "update_date": "2022-05-04",
+      "requested_by": "Test Team",
+      "change_description": "change-description",
+      "sample_data_duration": 0,
+      "version": "1.0"
+    }
+  ],
+  "super-source-attributes": [
+    {
+      "supersource_name": "test-superSource-1",
+      "attributes": [
+        {
+          "attribute_alias": "test",
+          "attribute_name": "test-name",
+          "calculation": "test",
+          "data_type": "test",
+          "derivation_type": "test",
+          "description": "test",
+          "filter_expression": "test",
+          "join_info": {
+            "join_to_col": "test",
+            "join_to_table_alias": "test",
+            "join_to_table_name": "test",
+            "join_type": "test"
+          },
+          "source": [
+            {
+              "table_alias": "test",
+              "table_name": "test",
+              "type": "test",
+              "values": [
+                "test"
+              ]
+            }
+          ]
+        }
+      ],
+      "create_date": "2022-09-08",
+      "partition_schema": [
+        {
+          "column_name": "test",
+          "data_type": "test",
+          "serial_number": "test",
+          "timestamp_indicator": "test"
+        }
+      ],
+      "process_query": "test",
+      "update_date": "2022-09-08",
+      "updated_by": "2022-09-08",
+      "update_run_id": "test",
+      "version": "1.1"
+    },
+    {
+      "supersource_name": "test-superSource-2",
+      "attributes": [
+        {
+          "attribute_alias": "test",
+          "attribute_name": "test-name",
+          "calculation": "test",
+          "data_type": "test",
+          "derivation_type": "test",
+          "description": "test",
+          "filter_expression": "test",
+          "join_info": {
+            "join_to_col": "test",
+            "join_to_table_alias": "test",
+            "join_to_table_name": "test",
+            "join_type": "test"
+          },
+          "source": [
+            {
+              "table_alias": "test",
+              "table_name": "test",
+              "type": "test",
+              "values": [
+                "test"
+              ]
+            }
+          ]
+        }
+      ],
+      "create_date": "2022-09-08",
+      "partition_schema": [
+        {
+          "column_name": "test",
+          "data_type": "test",
+          "serial_number": "test",
+          "timestamp_indicator": "test"
+        }
+      ],
+      "process_query": "test",
+      "update_date": "2022-09-08",
+      "updated_by": "2022-09-08",
+      "update_run_id": "test",
+      "version": "1.1"
+    }
+  ]
+}

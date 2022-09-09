@@ -1,0 +1,22 @@
+{
+  "name": "bmp-mock-server",
+  "version": "1.0.0",
+  "description": "Mock server for BMP",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server db.json --id supersource_name"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roland162/bmp-mock-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roland162/bmp-mock-server/issues"
+  },
+  "homepage": "https://github.com/roland162/bmp-mock-server#readme",
+  "devDependencies": {
+    "json-server": "^0.17.0"
+  }
+}
